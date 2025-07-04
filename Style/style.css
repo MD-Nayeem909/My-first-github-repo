@@ -1,5 +1,12 @@
-.First Project h1{
+h1,p {
     color: bisque;
-    margin: auto;
-    padding: 40%;
+    margin: 0% 20% 0%;
+    padding: 10px;
+}
+button {
+    font-size: 13px;
+    margin: 0% 20% 0%;
+    background-color: bisque;
+    border-radius: 5px;
+    border-top: 60%;
 }
